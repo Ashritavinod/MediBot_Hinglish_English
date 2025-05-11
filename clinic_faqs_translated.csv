@@ -1,0 +1,37 @@
+question_hinglish,answer,category,question_english
+clinic kab khulta hai?,"Clinic opens from 9 AM to 6 PM, Monday to Saturday.",timings,When does the clinic open?
+clinic Sunday ko khula rehta hai?,"No, the clinic remains closed on Sundays.",timings,Is the clinic open on Sunday?
+orthopedic doctor kab milenge?,Orthopedic doctor is available on Mon/Wed/Fri at 10 AM.,doctor_avail,When is the orthopedic doctor available?
+ENT specialist available hai?,"Yes, ENT specialist is available on Tue and Thu.",doctor_avail,Is the ENT specialist available?
+cashless available hai kya?,"Yes, we accept cashless insurance from selected providers.",insurance,Is cashless insurance available?
+emergency ke liye kya number hai?,"In case of emergency, call 911 or our helpline at 1800-111-999.",emergency,What is the emergency contact number?
+consultation ka charge kya hai?,General consultation costs ₹500.,cost,What is the consultation fee?
+appointment kaise book karein?,You can call the clinic or book online via our website.,timings,How to book an appointment?
+x-ray ki facility hai kya?,"Yes, we have in-house X-ray facility.",doctor_avail,Is X-ray facility available?
+clinic ka address kya hai?,"123 Health Street, Near City Mall, Delhi.",timings,What is the clinic's address?
+blood test available hai?,"Yes, common diagnostic tests are available.",doctor_avail,Is blood testing available?
+parking ka arrangement hai kya?,"Yes, free parking is available for all patients.",timings,Is parking available?
+MRI yahan hota hai?,"MRI facility is not available, but we provide referrals.",doctor_avail,Is MRI available here?
+insurance claim kaise file karein?,Our helpdesk assists in insurance claim filing.,insurance,How to file an insurance claim?
+general physician kab available hote hain?,Daily from 9 AM to 1 PM and 4 PM to 6 PM.,doctor_avail,When is the general physician available?
+clinic mein wheelchair support hai?,"Yes, clinic is wheelchair accessible.",timings,Is the clinic wheelchair accessible?
+clinic mein card payment hota hai?,"Yes, all major cards are accepted.",cost,Can I pay by card at the clinic?
+emergency ke liye ambulance hai?,"Yes, we provide ambulance services for emergencies.",emergency,Is ambulance service available for emergencies?
+blood pressure check karte ho?,"Yes, BP check is part of general consultation.",doctor_avail,Do you check blood pressure?
+ent mein kaunse din doctor milte hain?,ENT doctor is available Tuesday and Thursday.,doctor_avail,Which days is the ENT doctor available?
+clinic mein Hindi bolne wale staff hain?,"Yes, our staff speaks Hindi and English.",timings,Does the clinic have Hindi-speaking staff?
+consultation kitne time tak valid hoti hai?,Valid for follow-up within 7 days.,cost,How long is the consultation valid?
+online consultation available hai kya?,"Yes, video consultations are available via our app.",timings,Is online consultation available?
+lab test report kab milti hai?,Most reports are available within 24 hours.,doctor_avail,When are lab test reports ready?
+bina appointment ke aa sakte hain?,"Walk-ins accepted, but appointment preferred.",timings,Can I come without an appointment?
+clinic mein senior citizen discount hai?,"Yes, 10% discount for senior citizens.",cost,Is there a discount for senior citizens?
+vaccination hoti hai?,"Yes, flu and other common vaccines are available.",doctor_avail,Are vaccinations available?
+clinic mein COVID test hota hai?,"Yes, COVID RT-PCR test is available.",doctor_avail,Is COVID testing done at the clinic?
+insurance ke liye documents kya chahiye?,Bring your ID and insurance card.,insurance,What documents are needed for insurance?
+consultation free hai kya?,"No, consultation is charged at ₹500.",cost,Is the consultation free?
+pregnancy test available hai?,"Yes, urine-based and blood tests are available.",doctor_avail,Is pregnancy testing available?
+bache ka doctor kab milta hai?,Pediatrician is available on Mon/Wed/Fri 11 AM - 1 PM.,doctor_avail,When is the pediatrician available?
+clinic mein dietician bhi hai?,"Yes, by appointment on Fridays.",doctor_avail,Is a dietician available at the clinic?
+report email pe mil sakti hai?,"Yes, we can email your reports.",timings,Can I receive my report via email?
+CT scan available hai kya?,"CT scan not available in-house, referrals given.",doctor_avail,Is CT scan facility available?
+skin specialist available hai kya?,"Yes, dermatologist available Mon/Thu 2 PM.",doctor_avail,Is a skin specialist available?
