@@ -10,5 +10,5 @@ Features
 -  Fast, local CSV-based responses (no external APIs)
 -  Deployable on Streamlit Cloud
 
- DEMO: https://medibothinglishenglish-rbzcgue36iphtvffkdizyh.streamlit.app/
+ DEMO: [try](https://medibothinglishenglish-blaknwsappv8tuowkm4wrrr.streamlit.app/)
 
