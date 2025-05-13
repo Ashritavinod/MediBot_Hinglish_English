@@ -10,5 +10,15 @@ Features
 -  Fast, local CSV-based responses (no external APIs)
 -  Deployable on Streamlit Cloud
 
+Sample User Queries:
+
+“ENT doctor kab available hai?”
+
+“Fever aur headache ke liye kaunse doctor ko milna chahiye?”
+
+“Clinic Sunday ko open hai kya?”
+
+“What to do for mild stomach ache?”
+
  DEMO: [TRY](https://medibothinglishenglish-blaknwsappv8tuowkm4wrrr.streamlit.app/)
 
